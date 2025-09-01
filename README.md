@@ -42,14 +42,6 @@ A **simple, stylish, and responsive Weather Forecast App** built with **HTML, CS
 
 ---
 
-## 📌 Future Enhancements
-
-* 🌡️ Temperature unit toggle (°C/°F).
-* 🎨 Dark mode support.
-* 📅 5-day extended forecast.
-  
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
