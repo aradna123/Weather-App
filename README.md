@@ -1,5 +1,4 @@
 
-
 # 🌦️ Weather Forecast Application
 
 A **simple, stylish, and responsive Weather Forecast App** built with **HTML, CSS, and JavaScript**. This app allows users to **search for any city worldwide** and instantly get **real-time weather details** using API integration. Designed with a **modern UI** for an interactive and seamless user experience across all devices.
@@ -25,18 +24,6 @@ A **simple, stylish, and responsive Weather Forecast App** built with **HTML, CS
 
 ---
 
-📌 Future Enhancements
-
-🌡️ Temperature unit toggle (°C/°F).
-
-🎨 Dark mode support.
-
-📅 5-day extended forecast.
-
-🌆 Dynamic background based on weather conditions.
-
----
-
 ## 🚀 How to Use
 
 1. Clone this repository:
@@ -54,6 +41,15 @@ A **simple, stylish, and responsive Weather Forecast App** built with **HTML, CS
 
 ---
 
+## 📌 Future Enhancements
+
+* 🌡️ Temperature unit toggle (°C/°F).
+* 🎨 Dark mode support.
+* 📅 5-day extended forecast.
+* 🌆 Dynamic background based on weather conditions.
+
+---
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repo and submit a pull request.
@@ -66,4 +62,4 @@ This project is licensed under the **MIT License**.
 
 ---
 
-
+Would you like me to also **add an “Installation & Setup with API Key” section** (step-by-step instructions to get an API key and plug it into the app)? This will make your README more complete and beginner-friendly.
