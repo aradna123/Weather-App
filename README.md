@@ -59,7 +59,3 @@ Contributions are welcome! Feel free to fork this repo and submit a pull request
 ## 📜 License
 
 This project is licensed under the **MIT License**.
-
----
-
-Would you like me to also **add an “Installation & Setup with API Key” section** (step-by-step instructions to get an API key and plug it into the app)? This will make your README more complete and beginner-friendly.
