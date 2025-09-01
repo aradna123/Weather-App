@@ -25,6 +25,18 @@ A **simple, stylish, and responsive Weather Forecast App** built with **HTML, CS
 
 ---
 
+📌 Future Enhancements
+
+🌡️ Temperature unit toggle (°C/°F).
+
+🎨 Dark mode support.
+
+📅 5-day extended forecast.
+
+🌆 Dynamic background based on weather conditions.
+
+---
+
 ## 🚀 How to Use
 
 1. Clone this repository:
